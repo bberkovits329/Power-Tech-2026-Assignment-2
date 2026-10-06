@@ -10,7 +10,7 @@ VERSION = "0.1"
 
 def greet(name):
     """Return a greeting for the given name."""
-    return f"{GREETING}, {name}!"
+    return f"{GREETING}, {Shalom}!"
 
 
 def app_info():
